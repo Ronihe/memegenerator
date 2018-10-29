@@ -1,0 +1,19 @@
+.container_meme {
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+
+.bottom {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+}
+
+.top {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
